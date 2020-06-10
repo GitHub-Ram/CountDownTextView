@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+<declare-styleable name="CounterTextView">
+    <attr name="start" format="integer"/>
+    <attr name="stop" format="integer"/>
+        <attr name="progression" format="integer"/>
+        <attr name="startText" format="string"/>
+    <attr name="stopText" format="string"/>
+    <attr name="interval" format="integer"/>
+    <attr name="future" format="integer"/>
+    <attr name="repeat" format="boolean"/>
+ </declare-styleable>
+</resources>
